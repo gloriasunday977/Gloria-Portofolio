@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oyorofun Gloria Donami | Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0 0;
+        }
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 2rem;
+        }
+        h2 {
+            color: #4CAF50;
+            margin-bottom: 1rem;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 1rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Oyorofun Gloria Donami</h1>
+        <p>An expert in software development</p>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am a software developer skilled in system software, HTML, CSS, Java, JavaScript, React, Python, and API development.  
+            I also have strong soft skills, including time management, teamwork, communication, and problem-solving.  
+            Fluent in English and French, I aim to create impactful software solutions and assist others in understanding technology.
+        </p>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong> System software, HTML, CSS, Visual Studio Code, Java, JavaScript, React, Python, API development.</li>
+            <li><strong>Soft Skills:</strong> Time management, teamwork, communication, problem-solving.</li>
+            <li><strong>Languages:</strong> English, French.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li>
+                <strong>Internship as a Teaching Assistant:</strong>  
+                - Taught hardware and software development in computer science courses.  
+                - Assisted students with solving computer-related problems.  
+                - Provided knowledge about software development.  
+            </li>
+        </ul>
+    </section>
+    <section>
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:gloriasunday977@gmail.com">gloriasunday977@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/gloriasunday977" target="_blank">gloriasunday977</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/gloria-sunday" target="_blank">Gloria Sunday</a></p>
+    </section>
+    <footer>
+        <p>© 2024 Oyorofun Gloria Donami. Built with GitHub Pages.</p>
+    </footer>
+</body>
+</html>
